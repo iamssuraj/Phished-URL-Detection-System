@@ -1,4 +1,4 @@
-# Phishing Detection Model
+# URL Phishing Detection Model
 This repository contains an implementation of a phishing detection model using a combination of 1D CNN and LSTM. The model is trained to classify URLs as either legitimate or phishing based on various features of the dataset.
 
 ## Dataset
